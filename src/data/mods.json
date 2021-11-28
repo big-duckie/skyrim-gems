@@ -965,10 +965,10 @@
       "desc": "Adds 18 hours of lore-friendly music to the existing 3.5 hours of vanilla music. Hand-selected by Hothtrooper44. Appropriate music type will play based on location/activity."
     },
     {
-      "name": "Fantasy Soundtrack Project",
-      "url": "http://www.nexusmods.com/skyrim/mods/46518",
+      "name": "Fantasy Soundtrack Project LE",
+      "url": "https://www.nexusmods.com/skyrim/mods/109057",
       "flags": [],
-      "desc": "The successor to Fantasy Music Overhaul. Includes 200+ lore-friendly music tracks (12+ hours) that can add to or replace the original Skyrim soundtrack. Appropriate music plays based on location/activity."
+      "desc": "Adds 800+ minutes of new music. 235+ different tracks. Optionally has 20 combat tracks. Has replacer and non-replacer options."
     },
     {
       "name": "Enhanced Soundtrack",
