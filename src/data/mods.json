@@ -22,7 +22,7 @@
       "name": "Fuz Ro D-oh - Silent Voice",
       "url": "http://www.nexusmods.com/skyrim/mods/14884",
       "flags": [],
-      "desc": "Enhances support for unvoiced in-game dialog by playing a generic silent voice and lip synch file whenever a dialog response doesn&apos;t include voice."
+      "desc": "Enhances support for unvoiced in-game dialog by playing a generic silent voice and lip synch file whenever a dialog response doesn't include voice."
     },
     {
       "name": "Unlimited Bookshelves",
@@ -34,7 +34,7 @@
       "name": "Thieves Guild Requirements - No Auto Quest Start Brynjolf",
       "url": "http://www.nexusmods.com/skyrim/mods/14157",
       "flags": [],
-      "desc": "Brynjolf will not approach you and the Thieves Guild quest will not activate if you&apos;re not a thief - must have stolen items, picked pockets, and have some skill in sneak."
+      "desc": "Brynjolf will not approach you and the Thieves Guild quest will not activate if you're not a thief - must have stolen items, picked pockets, and have some skill in sneak."
     },
     {
       "name": "The Paarthurnax Dilemma",
@@ -46,7 +46,7 @@
       "name": "Sell Unusual Gems - Stones of Barenziah",
       "url": "http://www.nexusmods.com/skyrim/mods/23431",
       "flags": [],
-      "desc": "Lets you sell unusual gems to a Khajiit trader (removes &quot;No Stone Unturned&quot; quest from journal)"
+      "desc": "Lets you sell unusual gems to a Khajiit trader (removes \"No Stone Unturned\" quest from journal)"
     },
     {
       "name": "Fast travel timescale fix",
@@ -222,7 +222,7 @@
       "name": "Better Dialogue Controls",
       "url": "http://www.nexusmods.com/skyrim/mods/27371",
       "flags": [5],
-      "desc": "Fixes keyboard controls for dialog menus - Prevents selecting wrong item with &quot;E&quot; key because mouse pointer took focus away from the keyboard-selected item. When scrolling choices with mouse wheel, the center item is always the active one."
+      "desc": "Fixes keyboard controls for dialog menus - Prevents selecting wrong item with \"E\" key because mouse pointer took focus away from the keyboard-selected item. When scrolling choices with mouse wheel, the center item is always the active one."
     },
     {
       "name": "Better MessageBox Controls",
@@ -264,7 +264,7 @@
       "name": "Customizable Camera",
       "url": "http://www.nexusmods.com/skyrim/mods/37347",
       "flags": [],
-      "desc": "Lets you modify the camera in almost any way you want via MCM i.e. center camera, don&apos;t change zoom when drawing weapon, etc."
+      "desc": "Lets you modify the camera in almost any way you want via MCM i.e. center camera, don't change zoom when drawing weapon, etc."
     },
     {
       "name": "Distant Vanity Camera",
@@ -288,7 +288,7 @@
       "name": "Unique Region Names",
       "url": "http://www.nexusmods.com/skyrim/mods/15125",
       "flags": [],
-      "desc": "Displays name of the nine holds instead of &quot;Skyrim&quot;."
+      "desc": "Displays name of the nine holds instead of \"Skyrim\"."
     },
     {
       "name": "Even Better Quest Objectives",
@@ -342,7 +342,7 @@
       "name": "YOT - Your Own Thoughts",
       "url": "http://www.nexusmods.com/skyrim/mods/50349",
       "flags": [5],
-      "desc": "Changes messages to a first-person point of view. (A newer alternative to &apos;Think to Yourself Messages&apos; that includes DLC and Frostfall support)."
+      "desc": "Changes messages to a first-person point of view. (A newer alternative to 'Think to Yourself Messages' that includes DLC and Frostfall support)."
     },
     {
       "name": "Think to Yourself Messages",
@@ -360,7 +360,7 @@
       "name": "Changed syntaxes",
       "url": "http://steamcommunity.com/sharedfiles/filedetails/?id=97344733",
       "flags": [],
-      "desc": "Changes 3 syntaxes in the game: &quot;Open&quot; [place] is now &quot;Enter&quot; [place], &quot;Search&quot; [container] is now &quot;Loot&quot; [container] and &quot;Talk&quot; [person] is now &quot;Speak with&quot; [person]."
+      "desc": "Changes 3 syntaxes in the game: \"Open\" [place] is now \"Enter\" [place], \"Search\" [container] is now \"Loot\" [container] and \"Talk\" [person] is now \"Speak with\" [person]."
     },
     {
       "name": "No Psychic Lock Knowledge",
@@ -372,19 +372,19 @@
       "name": "No empty tag on empty containers",
       "url": "http://www.nexusmods.com/skyrim/mods/31463",
       "flags": [],
-      "desc": "Removes the visual tag that says &quot;empty&quot; on empty containers."
+      "desc": "Removes the visual tag that says \"empty\" on empty containers."
     },
     {
       "name": "Remove repeating OverEncumbered message",
       "url": "http://www.nexusmods.com/skyrim/mods/152",
       "flags": [],
-      "desc": "Removes the repeating &quot;You are carrying too much to be able to run&quot; message."
+      "desc": "Removes the repeating \"You are carrying too much to be able to run\" message."
     },
     {
       "name": "Death Cam Duration Options",
       "url": "http://www.nexusmods.com/skyrim/mods/242",
       "flags": [4],
-      "desc": "Game will keep running after the player dies until pressing &quot;escape&quot; key."
+      "desc": "Game will keep running after the player dies until pressing \"escape\" key."
     },
     {
       "name": "Lore-Based Loading Screens",
@@ -494,7 +494,7 @@
       "name": "Dungeon Quest Awareness",
       "url": "http://www.nexusmods.com/skyrim/mods/9720",
       "flags": [],
-      "desc": "Changes the map markers and area location of dungeons that contain major quest so you don&apos;t start them too early."
+      "desc": "Changes the map markers and area location of dungeons that contain major quest so you don't start them too early."
     },
     {
       "name": "World Map (PNG)",
@@ -592,7 +592,7 @@
       "name": "Helmet Toggle - Show Hide",
       "url": "http://www.nexusmods.com/skyrim/mods/22765",
       "flags": [4],
-      "desc": "Adds 2 spells that toggle the player or target&apos;s helmet to be hidden or shown."
+      "desc": "Adds 2 spells that toggle the player or target's helmet to be hidden or shown."
     },
     {
       "name": "Functional Homes",
@@ -613,7 +613,7 @@
       "desc": "Adds a special alchemy satchel to every buyable house in Skyrim that, when activated, allows you to transfer all the potion ingredients you currently have on you into it."
     },
     {
-      "name": "Jonte&apos;s Better Alchemy Satchel",
+      "name": "Jonte's Better Alchemy Satchel",
       "url": "http://steamcommunity.com/sharedfiles/filedetails/?id=9360",
       "flags": [],
       "desc": "Puts all of your alchemy ingredients into your satchel with one mouse click."
@@ -642,7 +642,7 @@
       "name": "Guess the Distance - Perceptive Scouting",
       "url": "http://www.nexusmods.com/skyrim/mods/30816",
       "flags": [4],
-      "desc": "Use &quot;Guess Distance&quot; power to perceive opponent&apos;s distance, experience, aggression level, armor, race and weapon (configurable). Amount of information depends on distance and visibility."
+      "desc": "Use \"Guess Distance\" power to perceive opponent's distance, experience, aggression level, armor, race and weapon (configurable). Amount of information depends on distance and visibility."
     },
     {
       "name": "BorderSense",
@@ -660,13 +660,13 @@
       "name": "Improved Container Names",
       "url": "http://www.nexusmods.com/skyrim/mods/9871",
       "flags": [],
-      "desc": "Makes container names more informative - &quot;sack&quot; becomes &quot;sack of produce&quot;."
+      "desc": "Makes container names more informative - \"sack\" becomes \"sack of produce\"."
     },
     {
       "name": "BLESSINGS - Altar Descriptions",
       "url": "http://www.nexusmods.com/skyrim/mods/16887",
       "flags": [],
-      "desc": "Improves descriptions of the altars of the nine Gods - &quot;Activate Shrine of Mara&quot; becomes &quot;Activate Shrine of Mara (Fortify Restoration)&quot;"
+      "desc": "Improves descriptions of the altars of the nine Gods - \"Activate Shrine of Mara\" becomes \"Activate Shrine of Mara (Fortify Restoration)\""
     },
     {
       "name": "Soul Gems Differ - Full and Empty",
@@ -690,7 +690,7 @@
       "name": "Improved Quest Books",
       "url": "http://steamcommunity.com/sharedfiles/filedetails/?id=9180",
       "flags": [5],
-      "desc": "Appends &quot;(Quest)&quot; to the names of books that start quests"
+      "desc": "Appends \"(Quest)\" to the names of books that start quests"
     },
     {
       "name": "Unread Books Glow",
@@ -702,7 +702,7 @@
       "name": "Organized Books",
       "url": "http://www.nexusmods.com/skyrim/mods/26913",
       "flags": [],
-      "desc": "Edits names of books to more clearly denote books in a series e.g. changes &quot;The Wolf Queen, v4&quot; to &quot;Wolf Queen, Vol. 4 of 8&quot;. Also fixes recipes, spell tomes, treasure maps, journals and notes."
+      "desc": "Edits names of books to more clearly denote books in a series e.g. changes \"The Wolf Queen, v4\" to \"Wolf Queen, Vol. 4 of 8\". Also fixes recipes, spell tomes, treasure maps, journals and notes."
     },
     {
       "name": "Linguists of Skyrim - Dragon Translation kit",
@@ -738,13 +738,13 @@
       "name": "Real Days and Months",
       "url": "http://www.nexusmods.com/skyrim/mods/2194",
       "flags": [],
-      "desc": "Uses actual day, month and times to sleep/wait menu e.g. Time Wait screen will say &quot;Monday, 8:00 AM, 17th of August&quot;."
+      "desc": "Uses actual day, month and times to sleep/wait menu e.g. Time Wait screen will say \"Monday, 8:00 AM, 17th of August\"."
     },
     {
       "name": "Blitz Console Commands - MCM",
       "url": "http://www.nexusmods.com/skyrim/mods/30737",
       "flags": [],
-      "desc": "Adds an option under Help called &quot;Console Commands&quot; to the in-game pause menu. Lets you browse the list of all console command and their descriptions in-game."
+      "desc": "Adds an option under Help called \"Console Commands\" to the in-game pause menu. Lets you browse the list of all console command and their descriptions in-game."
     },
     {
       "name": "Console Books",
@@ -824,13 +824,13 @@
       "name": "Activate Fail Noise Removal",
       "url": "http://www.nexusmods.com/skyrim/mods/210",
       "flags": [],
-      "desc": "Removes annoying &quot;fail&quot; noise."
+      "desc": "Removes annoying \"fail\" noise."
     },
     {
       "name": "SILENT Skyrim - Quieter Interface",
       "url": "http://www.nexusmods.com/skyrim/mods/30877",
       "flags": [5],
-      "desc": "Can replace nearly 2 dozen annoying sound effects with silent .wav file - sneak attack &quot;clunk&quot;, activate fail noise, level-up noises, crafting noises, nirn root ringing, and many more."
+      "desc": "Can replace nearly 2 dozen annoying sound effects with silent .wav file - sneak attack \"clunk\", activate fail noise, level-up noises, crafting noises, nirn root ringing, and many more."
     },
     {
       "name": "Skyrim User Interface Silencer",
@@ -902,7 +902,7 @@
       "name": "IHSS - Improved Horse Step Sounds",
       "url": "http://www.nexusmods.com/skyrim/mods/31039",
       "flags": [],
-      "desc": "Improves the &quot;hoovestep&quot; sounds of horses by adding &quot;sound sets&quot; for different grounds."
+      "desc": "Improves the \"hoovestep\" sounds of horses by adding \"sound sets\" for different grounds."
     },
     {
       "name": "Clanking Armor",
@@ -1036,7 +1036,7 @@
       "name": "Dovahkiin Relaxes Too",
       "url": "http://www.nexusmods.com/skyrim/mods/13931",
       "flags": [5],
-      "desc": "Use one shout to activate an animation appropriate for the object you cast it upon e.g. &apos;sit&apos;, &apos;sleep&apos;, &apos;warm hands by fire&apos;, &apos;sit and eat/drink&apos; &apos;pray&apos;, &apos;lean on wall/counter&apos;, &apos;feed chicken&apos;, etc."
+      "desc": "Use one shout to activate an animation appropriate for the object you cast it upon e.g. 'sit', 'sleep', 'warm hands by fire', 'sit and eat/drink' 'pray', 'lean on wall/counter', 'feed chicken', etc."
     },
     {
       "name": "Simple Actions",
@@ -1060,7 +1060,7 @@
       "name": "Sit Anywhere",
       "url": "http://www.nexusmods.com/skyrim/mods/23179",
       "flags": [],
-      "desc": "Allows you or you followers to sit anywhere. Adds 4 lesser powers to &apos;sit cross-legged&apos;, &apos;sit on a ledge&apos;, &apos;create a cross-legged sitting spot&apos; or &apos;create a ledge sitting spot&apos;"
+      "desc": "Allows you or you followers to sit anywhere. Adds 4 lesser powers to 'sit cross-legged', 'sit on a ledge', 'create a cross-legged sitting spot' or 'create a ledge sitting spot'"
     },
     {
       "name": "Dovahkiin Prayers",
@@ -1114,7 +1114,7 @@
       "name": "New Animation for Magic Casting",
       "url": "http://www.nexusmods.com/skyrim/mods/28428",
       "flags": [5],
-      "desc": "Improves animations for casting magic. Note: It is safe, per the author, to delete any animation file that you don&apos;t like."
+      "desc": "Improves animations for casting magic. Note: It is safe, per the author, to delete any animation file that you don't like."
     },
     {
       "name": "3rd Person Animation Tweak - Dual Wield Sprint",
@@ -1440,7 +1440,7 @@
       "name": "Skyrim -Community- Uncapper",
       "url": "http://www.nexusmods.com/skyrim/mods/1175",
       "flags": [4],
-      "desc": "\\[SKSE\\] Set your own custom skill level caps, experience earning rate of each skill, the relation between skill leveling and player leveling, number of perks, Health points, Magicka points, Stamina points, and/or \"Carry Weight\" points gained at a specific level up. ([Click here](http://www.skyrimgems.com/uncapper.html) for additional documentation/explanation of the .ini options) [Click here](http://www.nexusmods.com/skyrim/mods/21569) for a spreadsheet to help calculate your values)"
+      "desc": "Set your own custom skill level caps, experience earning rate of each skill, the relation between skill leveling and player leveling, number of perks, Health points, Magicka points, Stamina points, and/or \"Carry Weight\" points gained at a specific level up. ([Click here](http://www.skyrimgems.com/uncapper.html) for additional documentation/explanation of the .ini options) [Click here](http://www.nexusmods.com/skyrim/mods/21569) for a spreadsheet to help calculate your values)"
     },
     {
       "name": "ERSO 13.02 - Lower Skill Gain",
@@ -1458,13 +1458,13 @@
       "name": "SXP - Skyrim Experience Mod",
       "url": "http://www.nexusmods.com/skyrim/mods/40899//",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] A new skill leveling overhaul. Earn XP by completing quests, visiting a new location, defeating a foe, etc. Spend XP to level up any skill. Requires [Community Uncapper](http://www.nexusmods.com/skyrim/mods/1175)."
+      "desc": "A new skill leveling overhaul. Earn XP by completing quests, visiting a new location, defeating a foe, etc. Spend XP to level up any skill. Requires [Community Uncapper](http://www.nexusmods.com/skyrim/mods/1175)."
     },
     {
       "name": "SkyXP",
       "url": "http://www.nexusmods.com/skyrim/mods/20681",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] A skill leveling overhaul. Earn XP by completing quests, visiting a new location, defeating a foe etc. Spend XP to level up any skill. Requires [Community Uncapper](http://www.nexusmods.com/skyrim/mods/1175)."
+      "desc": "A skill leveling overhaul. Earn XP by completing quests, visiting a new location, defeating a foe etc. Spend XP to level up any skill. Requires [Community Uncapper](http://www.nexusmods.com/skyrim/mods/1175)."
     },
     {
       "name": "Katixas Skill Lock Cap",
@@ -1507,13 +1507,13 @@
       "name": "SkyRealism - Capacity and Carry Weight",
       "url": "http://www.nexusmods.com/skyrim/mods/21224",
       "flags": [1, 4],
-      "desc": "\\[SKSE\\]\\[DG\\] Hardcore carry weight mod - sets base CarryWeight equal to weight of equipped items plus 50 (need bandoliers and backpacks to add weight)"
+      "desc": "Hardcore carry weight mod - sets base CarryWeight equal to weight of equipped items plus 50 (need bandoliers and backpacks to add weight)"
     },
     {
       "name": "SkyRealism - Encumbrance",
       "url": "http://www.nexusmods.com/skyrim/mods/21211",
       "flags": [1, 4],
-      "desc": "\\[SKSE\\]\\[DG\\] Hardcore encumbrance mod - Option 1: Movement speed is modified based on how much weight you're carrying and your average skill level. Option 2: Use [this tweak mod](http://www.nexusmods.com/skyrim/mods/41862) to have excessive weight reduce stamina while running instead of reducing movement speed."
+      "desc": "Hardcore encumbrance mod - Option 1: Movement speed is modified based on how much weight you're carrying and your average skill level. Option 2: Use [this tweak mod](http://www.nexusmods.com/skyrim/mods/41862) to have excessive weight reduce stamina while running instead of reducing movement speed."
     },
     {
       "name": "DFB Carry Weight Per Stamina",
@@ -1611,7 +1611,7 @@
       "name": "Loot Later",
       "url": "http://www.nexusmods.com/skyrim/mods/61543",
       "flags": [4],
-      "desc": "\\[SKSE\\] Craft empty sacks and when encumbered, drop them on the ground and move some of your loot to it for later retrieval. Holds up to 150 units of weight. Mark up to 16 sacks on the map."
+      "desc": "Craft empty sacks and when encumbered, drop them on the ground and move some of your loot to it for later retrieval. Holds up to 150 units of weight. Mark up to 16 sacks on the map."
     },
     {
       "name": "Blacksmith Storage Chests",
@@ -1709,7 +1709,7 @@
       "name": "Scale Tipper",
       "url": "http://www.nexusmods.com/skyrim/mods/15958",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] Dynamically reweights all potions, poisons and scrolls in the game to a player-configurable weight every time the game loads to avoid conflicts with other mods (i.e. weight changes do not overwrite objects in savegame)"
+      "desc": "Dynamically reweights all potions, poisons and scrolls in the game to a player-configurable weight every time the game loads to avoid conflicts with other mods (i.e. weight changes do not overwrite objects in savegame)"
     },
     {
       "name": "Rebalanced Potion Weight",
@@ -1745,7 +1745,7 @@
       "name": "Customizable Weights",
       "url": "http://www.nexusmods.com/skyrim/mods/24159",
       "flags": [4],
-      "desc": "\\[SKSE\\] Adds a Spell and a Power to change the weight of any item in-game. Cast a spell on an item in front of you or use a Power to open a menu of items. No longer supported. Source code provided."
+      "desc": "Adds a Spell and a Power to change the weight of any item in-game. Cast a spell on an item in front of you or use a Power to open a menu of items. No longer supported. Source code provided."
     }
   ],
   "gameplay_overhaul": [
@@ -1759,13 +1759,13 @@
       "name": "T3nd0's Perkus Maximus",
       "url": "http://www.nexusmods.com/skyrim/mods/59849/",
       "flags": [1, 3, 4],
-      "desc": "\\[SKSE\\] \\[DG\\] \\[DB\\] The successor to Skyrim Redone and more compliant with other mods. ([Compatibility Patches](http://www.nexusmods.com/skyrim/mods/59257/)). Large-scale perk and gameplay overhaul by T3nd0, creator of Skyrim Redone. Hundreds of new perks, spells and pieces of gear with advanced mechanics."
+      "desc": "The successor to Skyrim Redone and more compliant with other mods. ([Compatibility Patches](http://www.nexusmods.com/skyrim/mods/59257/)). Large-scale perk and gameplay overhaul by T3nd0, creator of Skyrim Redone. Hundreds of new perks, spells and pieces of gear with advanced mechanics."
     },
     {
       "name": "Requiem",
       "url": "http://www.nexusmods.com/skyrim/mods/19281",
       "flags": [1, 4],
-      "desc": "\\[SKSE\\] \\[DG\\] A hardcore realism overhaul mod - Different race stats, Start with lower skills. No Health Regen and slower Magicka Regen. No fasttravel. **De-leveled encounters & loot**. Less UI sounds. Weapons & arrows do more dmg. Armor protects more. Smarter enemy AI. Harder lockpicking and sneaking. Lower CarryWeight. Arrows & gold have weight. Cutthroat merchants. Increased falling dmg. 1st person messages. New weapons, foods, recipes...Revised perk tree, spells, enchanting, shouts, standing stones, shrines, and much much more! [Click here](http://www.reddit.com/r/skyrimrequiem) for Requiem discussion forum"
+      "desc": "A hardcore realism overhaul mod - Different race stats, Start with lower skills. No Health Regen and slower Magicka Regen. No fasttravel. **De-leveled encounters & loot**. Less UI sounds. Weapons & arrows do more dmg. Armor protects more. Smarter enemy AI. Harder lockpicking and sneaking. Lower CarryWeight. Arrows & gold have weight. Cutthroat merchants. Increased falling dmg. 1st person messages. New weapons, foods, recipes...Revised perk tree, spells, enchanting, shouts, standing stones, shrines, and much much more! [Click here](http://www.reddit.com/r/skyrimrequiem) for Requiem discussion forum"
     },
     {
       "name": "SPERG - Skyrim Perk Enhancements and Rebalanced Gameplay",
@@ -1983,7 +1983,7 @@
       "name": "DUT - Expanded Perks",
       "url": "http://www.nexusmods.com/skyrim/mods/26651",
       "flags": [1],
-      "desc": "\\[DG\\] A modular expansion of the Vanilla perks to provide additional/different specialization paths."
+      "desc": "A modular expansion of the Vanilla perks to provide additional/different specialization paths."
     },
     {
       "name": "Skyrim Unlimited Rings And Amulets",
@@ -2029,13 +2029,13 @@
       "name": "Trade and Barter",
       "url": "http://www.nexusmods.com/skyrim/mods/34612",
       "flags": [4],
-      "desc": "\\[SKSE\\] Adds many user-adjustable factors to bartering such as status, race, location, knowledge, etiquette, etc. Compatible SkyRe."
+      "desc": "Adds many user-adjustable factors to bartering such as status, race, location, knowledge, etiquette, etc. Compatible SkyRe."
     },
     {
       "name": "Trade Routes",
       "url": "http://www.nexusmods.com/skyrim/mods/49369",
       "flags": [4],
-      "desc": "\\[SKSE\\] The successor to Economics of Skyrim - dynamically adjusts the gold value and merchant supply of trade goods to create profitable trade routes. Compatible with SkyRe, DLCs and others."
+      "desc": "The successor to Economics of Skyrim - dynamically adjusts the gold value and merchant supply of trade goods to create profitable trade routes. Compatible with SkyRe, DLCs and others."
     },
     {
       "name": "Scarcity",
@@ -2059,13 +2059,13 @@
       "name": "Perseids Inns and Taverns - Realistic Room Rental",
       "url": "http://www.nexusmods.com/skyrim/mods/25029",
       "flags": [2, 3, 4],
-      "desc": "\\[SKSE\\] Basic version - MCM to adjust room cost. No DLC req'd. Compatible with everything. Enhanced version requires HF and DB DLC and adds extended stay option, safe-storage containers, pay for followers, adds bathtubs, loyal patron discounts, and more..."
+      "desc": "Basic version - MCM to adjust room cost. No DLC req'd. Compatible with everything. Enhanced version requires HF and DB DLC and adds extended stay option, safe-storage containers, pay for followers, adds bathtubs, loyal patron discounts, and more..."
     },
     {
       "name": "Investment Price Config",
       "url": "http://www.nexusmods.com/skyrim/mods/58963",
       "flags": [2, 5],
-      "desc": "\\[HF\\] Use MCM to adjust the price of player homes, player home upgrades, horses and mercenaries. (Can set a different price multiplier for each type)"
+      "desc": "Use MCM to adjust the price of player homes, player home upgrades, horses and mercenaries. (Can set a different price multiplier for each type)"
     },
     {
       "name": "Expensive Investments",
@@ -2137,19 +2137,19 @@
       "name": "Your Market Stall",
       "url": "http://www.nexusmods.com/skyrim/mods/35305",
       "flags": [4],
-      "desc": "\\[SKSE\\] Lets you open a fleamarket stall and sell merchandise to NPCs (Try [Adura's Merchant Mod - Player Shops](http://steamcommunity.com/sharedfiles/filedetails/?id=116775764) on Steam as an alternative)"
+      "desc": "Lets you open a fleamarket stall and sell merchandise to NPCs (Try [Adura's Merchant Mod - Player Shops](http://steamcommunity.com/sharedfiles/filedetails/?id=116775764) on Steam as an alternative)"
     },
     {
       "name": "Storefront",
       "url": "http://www.nexusmods.com/skyrim/mods/47712",
       "flags": [2],
-      "desc": "\\[HF\\] Your spouse will operate a store in the market area of the city you are living in during the day. Place objects in chest to be sold."
+      "desc": "Your spouse will operate a store in the market area of the city you are living in during the day. Place objects in chest to be sold."
     },
     {
       "name": "RE - Real Estate",
       "url": "http://www.nexusmods.com/skyrim/mods/37774/",
       "flags": [4],
-      "desc": "\\[SKSE\\] Become a landlord by purchasing and renting properties like houses, shops, inns, farms and more. Earn weekly revenue from your properties. (Also consider [Skyrim Tycoon - Reloaded](http://www.nexusmods.com/skyrim/mods/34959/)"
+      "desc": "Become a landlord by purchasing and renting properties like houses, shops, inns, farms and more. Earn weekly revenue from your properties. (Also consider [Skyrim Tycoon - Reloaded](http://www.nexusmods.com/skyrim/mods/34959/)"
     },
     {
       "name": "Bordeciel Bank Mod (BBM)",
@@ -2175,13 +2175,13 @@
       "name": "Forgotten Magic Redone",
       "url": "http://www.nexusmods.com/skyrim/mods/35339",
       "flags": [4],
-      "desc": "\\[SKSE\\] Adds 38+ spells, each with 10 possible improvements. Spells improve with use. Click video link for brief summary or [click here](http://www.youtube.com/watch?v=5dIAQalEbis&feature=share&list=UUL2K7f0op7vyj-wFzeuSjGQ&index=2) for an indepth video review."
+      "desc": "Adds 38+ spells, each with 10 possible improvements. Spells improve with use. Click video link for brief summary or [click here](http://www.youtube.com/watch?v=5dIAQalEbis&feature=share&list=UUL2K7f0op7vyj-wFzeuSjGQ&index=2) for an indepth video review."
     },
     {
       "name": "Spell Crafting for Skyrim",
       "url": "http://www.nexusmods.com/skyrim/mods/33598",
       "flags": [4],
-      "desc": "\\[SKSE\\] Create, save and name your own custom spells by combining up to 5 different magic effects (over 40 to choose from). Vary the duration, target type, amt of damage, level of targets affected, etc. (thousands of possible combinations)"
+      "desc": "Create, save and name your own custom spells by combining up to 5 different magic effects (over 40 to choose from). Vary the duration, target type, amt of damage, level of targets affected, etc. (thousands of possible combinations)"
     },
     {
       "name": "Spell Combos",
@@ -2241,7 +2241,7 @@
       "name": "Mighty Magick Skyrim ",
       "url": "http://www.nexusmods.com/skyrim/mods/13166",
       "flags": [4],
-      "desc": "\\[SKSE\\] A modular collection of ESPs that improve magic with minimal conflict with other mods"
+      "desc": "A modular collection of ESPs that improve magic with minimal conflict with other mods"
     },
     {
       "name": "Better Wards",
@@ -2253,7 +2253,7 @@
       "name": "Simple Magic Rebalance",
       "url": "http://www.nexusmods.com/skyrim/mods/45021",
       "flags": [1, 3],
-      "desc": "\\[DG\\] \\[DB\\] Effects from potions and enchantments are swapped: enchanted gear increases spell power and potions reduce casting costs."
+      "desc": "Effects from potions and enchantments are swapped: enchanted gear increases spell power and potions reduce casting costs."
     },
     {
       "name": "Auto Magic Scaling",
@@ -2307,7 +2307,7 @@
       "name": "Magic DuelMagic Duel: Reborn",
       "url": "http://www.nexusmods.com/skyrim/mods/18763",
       "flags": [4],
-      "desc": "\\[SKSE\\] Allows player to duel against another mage using destruction spells. (Alternate pressing mouse buttons to win) Many configurable options (difficulty, damage, speed, chance of duel & more)"
+      "desc": "Allows player to duel against another mage using destruction spells. (Alternate pressing mouse buttons to win) Many configurable options (difficulty, damage, speed, chance of duel & more)"
     }
   ],
   "combat": [
@@ -2332,19 +2332,19 @@
       "name": "Ultimate Combat",
       "url": "http://www.nexusmods.com/skyrim/mods/36006",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] Improves enemy AI, adds new special attacks with animations, NPCs use timed blocks + dodge more. stagger resistance with diminishing effectiveness, higher stamina cost but faster regen rate (configurable), headshots+much more."
+      "desc": "Improves enemy AI, adds new special attacks with animations, NPCs use timed blocks + dodge more. stagger resistance with diminishing effectiveness, higher stamina cost but faster regen rate (configurable), headshots+much more."
     },
     {
       "name": "Duke Patricks - Archery And Heavy Weapons Combat",
       "url": "http://tesalliance.org/forums/index.php?/files/file/1567-duke-patricks-archery-and-heavy-weapons-combat/",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] A real-time melee combat simulation mod with re-optimized scripts (faster). Player customizable. Attack range based on 3D weapon model. Real physics weapons speeds. Linear and rotation momentum increases dmg (including horse combat). Locational damage. Realistic ???knockback??? physics. Realistic stamina burn from blocking and attacking based on physics. Timed blocking, feint attacks, evasive ducking and block attacks. Actors show pain. More immersive kill move events. Realistic bow sway, arrow knocking and string pull."
+      "desc": "A real-time melee combat simulation mod with re-optimized scripts (faster). Player customizable. Attack range based on 3D weapon model. Real physics weapons speeds. Linear and rotation momentum increases dmg (including horse combat). Locational damage. Realistic ???knockback??? physics. Realistic stamina burn from blocking and attacking based on physics. Timed blocking, feint attacks, evasive ducking and block attacks. Actors show pain. More immersive kill move events. Realistic bow sway, arrow knocking and string pull."
     },
     {
       "name": "Action Combat",
       "url": "http://www.nexusmods.com/skyrim/mods/62856/",
       "flags": [4],
-      "desc": "\\[SKSE\\] Use with most other combat mods. Adds Weapon Parrying, Counter-Striking, Pain Reaction, Exhaustion, Vulnerability and a Poise system to combat."
+      "desc": "Use with most other combat mods. Adds Weapon Parrying, Counter-Striking, Pain Reaction, Exhaustion, Vulnerability and a Poise system to combat."
     },
     {
       "name": "Combat Evolved",
@@ -2356,7 +2356,7 @@
       "name": "Enemy AI OverHaul---Revenge Of the Enemies",
       "url": "http://www.nexusmods.com/skyrim/mods/40491//",
       "flags": [1],
-      "desc": "\\[DG\\] Works with all combat mods. Safe to add/remove at any time. Enemies will use their daily racial abilites, a greater variety of spells, dual wield, block more, dodge more, use more power attacks, etc."
+      "desc": "Works with all combat mods. Safe to add/remove at any time. Enemies will use their daily racial abilites, a greater variety of spells, dual wield, block more, dodge more, use more power attacks, etc."
     },
     {
       "name": "Enhanced Enemy AI",
@@ -2386,31 +2386,31 @@
       "name": "TK HitStop",
       "url": "http://www.nexusmods.com/skyrim/mods/23681",
       "flags": [4],
-      "desc": "\\[SKSE\\] Adds 3 visual effects when hitting someone (\"hit-stop\",\" shake camera\" and \"blur effect\") to enhance the illusion of actually hitting them. (watch video) Player customizable."
+      "desc": "Adds 3 visual effects when hitting someone (\"hit-stop\",\" shake camera\" and \"blur effect\") to enhance the illusion of actually hitting them. (watch video) Player customizable."
     },
     {
       "name": "TKDodge",
       "url": "http://www.nexusmods.com/skyrim/mods/20923",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] Player can Dodge (new animations) left/right/back using double tap or ALT + A S or D. Works with Deadly Combat."
+      "desc": "Player can Dodge (new animations) left/right/back using double tap or ALT + A S or D. Works with Deadly Combat."
     },
     {
       "name": "Dodge Mod",
       "url": "http://www.nexusmods.com/skyrim/mods/29258",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] Allows player to make short, quick movements to dodge opponents' attacks. By default, uses sprint key while moving sideways or backwards. Plays animation."
+      "desc": "Allows player to make short, quick movements to dodge opponents' attacks. By default, uses sprint key while moving sideways or backwards. Plays animation."
     },
     {
       "name": "Locational Damage",
       "url": "http://www.nexusmods.com/skyrim/mods/12615",
       "flags": [4],
-      "desc": "\\[SKSE\\] \\*\\* Caution: Over long term saves, this mod can can result in a build-up resulting in script latency, slower processing and eventually enemies reacting improperly or CTDs ([source](http://steamcommunity.com/app/72850/discussions/0/523890681422555089/)) \\*\\* Adds 15 different body zones, each with unique critical hit effects (e.g. staggering, knockback, knockdown, blurred vision...). Percentaged dmg for head, chest & leg area. Works with other combat mods. Customizable. (Not compatible with Player Headtracking)"
+      "desc": "**Caution: Over long term saves, this mod can can result in a build-up resulting in script latency, slower processing and eventually enemies reacting improperly or CTDs ([source](http://steamcommunity.com/app/72850/discussions/0/523890681422555089/))** Adds 15 different body zones, each with unique critical hit effects (e.g. staggering, knockback, knockdown, blurred vision...). Percentaged dmg for head, chest & leg area. Works with other combat mods. Customizable. (Not compatible with Player Headtracking)"
     },
     {
       "name": "Battle fatigue and injuries ",
       "url": "http://www.nexusmods.com/skyrim/mods/13241",
       "flags": [4],
-      "desc": "\\[SKSE\\] Losing 25% Health at once causes an injury (Subtle screen blur). Each injury reduces specific skills depending on location of injury. Injuries can accumulate. Bandages reduce injury effects by half for 12 hrs (treating an injury takes 15 minutes). Sleeping heals injuries. Animations. (also consider [Linen Craft](http://www.nexusmods.com/skyrim/mods/21394/)) and/or [Bandages - a Battle Fatigue and Injuries patch](http://www.nexusmods.com/skyrim/mods/54644/) for bandage making."
+      "desc": "Losing 25% Health at once causes an injury (Subtle screen blur). Each injury reduces specific skills depending on location of injury. Injuries can accumulate. Bandages reduce injury effects by half for 12 hrs (treating an injury takes 15 minutes). Sleeping heals injuries. Animations. (also consider [Linen Craft](http://www.nexusmods.com/skyrim/mods/21394/)) and/or [Bandages - a Battle Fatigue and Injuries patch](http://www.nexusmods.com/skyrim/mods/54644/) for bandage making."
     },
     {
       "name": "Injure Kit",
@@ -2434,7 +2434,7 @@
       "name": "Dual Wield Parrying",
       "url": "http://www.nexusmods.com/skyrim/mods/9247",
       "flags": [4],
-      "desc": "\\[SKSE\\] Allows parrying & blocking while dual-wielding two weapons."
+      "desc": "Allows parrying & blocking while dual-wielding two weapons."
     },
     {
       "name": "Dual Wield Blocking Animations",
@@ -2488,7 +2488,7 @@
       "name": "Dynamic Difficulty",
       "url": "http://www.nexusmods.com/skyrim/mods/30505",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] Modifiers to damage dealt and damage received can be set to a static amount or allowed to adjust dynamically based on length of battles to keep game challenging. (Player configurable)"
+      "desc": "Modifiers to damage dealt and damage received can be set to a static amount or allowed to adjust dynamically based on length of battles to keep game challenging. (Player configurable)"
     },
     {
       "name": "Custom Difficulty",
@@ -2500,25 +2500,25 @@
       "name": " Phenderix Tool - Edit Weapon",
       "url": "http://www.nexusmods.com/skyrim/mods/25794/",
       "flags": [4],
-      "desc": "\\[SKSE\\] Adjust the Base Damage, Speed, Stagger Chance, Max Range or Reach of any weapon using a spell."
+      "desc": "Adjust the Base Damage, Speed, Stagger Chance, Max Range or Reach of any weapon using a spell."
     },
     {
       "name": "VioLens - A Killmove Mod",
       "url": "http://www.nexusmods.com/skyrim/mods/56980/",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] Successor to The Dance of Death, VioLens gives you in-game control over both ranged and melee killmoves. Version 2.0+ provides more Killmove customization by allowing you to pick which Killmoves you'd like to see trigger for each weapon type."
+      "desc": "Successor to The Dance of Death, VioLens gives you in-game control over both ranged and melee killmoves. Version 2.0+ provides more Killmove customization by allowing you to pick which Killmoves you'd like to see trigger for each weapon type."
     },
     {
       "name": "The Dance of Death - A Killmove Mod",
       "url": "http://www.nexusmods.com/skyrim/mods/10906",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] \\*\\* No longer supported. Author recommends using [VioLens - A Killmove Mod](http://www.nexusmods.com/skyrim/mods/56980/) instead \\*\\* Adds many new kill moves."
+      "desc": "** No longer supported. Author recommends using [VioLens - A Killmove Mod](http://www.nexusmods.com/skyrim/mods/56980/) instead ** Adds many new kill moves."
     },
     {
       "name": "Heart Breaker - A Killmove Mod",
       "url": "http://www.nexusmods.com/skyrim/mods/32598",
       "flags": [3],
-      "desc": "\\[DB\\] Press \"E\" while humanoid opponent is on one knee to rip their heart out. Compatible with Dance of Death and Violens."
+      "desc": "Press \"E\" while humanoid opponent is on one knee to rip their heart out. Compatible with Dance of Death and Violens."
     },
     {
       "name": "Disable slow motion for killmoves and forced killcam",
@@ -2670,7 +2670,7 @@
       "name": "Water Arrows And Crossbow Bolts",
       "url": "http://www.nexusmods.com/skyrim/mods/22234",
       "flags": [1],
-      "desc": "\\[DG\\] Adds Thief series style Water Arrows that allow you to extinguish lights from a distance."
+      "desc": "Adds Thief series style Water Arrows that allow you to extinguish lights from a distance."
     },
     {
       "name": "Elemental Arrows",
@@ -2884,7 +2884,7 @@
       "name": "Woodcutter ",
       "url": "http://www.nexusmods.com/skyrim/mods/68597/",
       "flags": [1, 2, 3, 4],
-      "desc": "\\[SKSE\\] \\[DG+HF+DB\\] Use an axe to cut down any tree (you can actually watch it fall!). Also lets you craft saw horses and new work benches which will let you craft countless items including tents, barricades, furniture, clutter items, vanilla crafting stations, a new scriptorium to duplicate books and scrolls, light sources, and much much more. Requires [Jaxonz Positioner](http://www.nexusmods.com/skyrim/mods/52583/) to place and position the items you craft."
+      "desc": "Use an axe to cut down any tree (you can actually watch it fall!). Also lets you craft saw horses and new work benches which will let you craft countless items including tents, barricades, furniture, clutter items, vanilla crafting stations, a new scriptorium to duplicate books and scrolls, light sources, and much much more. Requires [Jaxonz Positioner](http://www.nexusmods.com/skyrim/mods/52583/) to place and position the items you craft."
     },
     {
       "name": "collecting Firewood",
@@ -2896,7 +2896,7 @@
       "name": "Dynamic Things - Woodpiles and Barrels...",
       "url": "http://www.nexusmods.com/skyrim/mods/32448",
       "flags": [4],
-      "desc": "\\[SKSE\\] \\*\\* Highly recommend also installing the patch [Dynamic Things - Enhanced](http://www.nexusmods.com/skyrim/mods/54116) to fix bugs and enhance compatibility ([Read More](http://steamcommunity.com/app/72850/discussions/0/523890681422555089/))\\*\\*\n\n*   Convert any container into a \"safe-storage\" container by simply putting something into it. (Make any house/cave/fort into a player home)\n*   All keg barrels are functional - contain mead/water/blood/etc. Payment required first. Fill empty bottles.\n*   Lets you harvest firewood/deadwood from bushes/trees/woodpiles/fallen trees/driftwood, etc. Can chop down trees.\n*   Makes all barrels/crates into active containers with \"intelligent\" ingredients.\n*   Using a training dummy/archery target will increase appropriate skill"
+      "desc": "**Highly recommend also installing the patch [Dynamic Things - Enhanced](http://www.nexusmods.com/skyrim/mods/54116) to fix bugs and enhance compatibility ([Read More](http://steamcommunity.com/app/72850/discussions/0/523890681422555089/))** Convert any container into a \"safe-storage\" container by simply putting something into it. (Make any house/cave/fort into a player home)\n*   All keg barrels are functional - contain mead/water/blood/etc. Payment required first. Fill empty bottles.\n*   Lets you harvest firewood/deadwood from bushes/trees/woodpiles/fallen trees/driftwood, etc. Can chop down trees.\n*   Makes all barrels/crates into active containers with \"intelligent\" ingredients.\n*   Using a training dummy/archery target will increase appropriate skill"
     },
     {
       "name": "Earthquakes",
@@ -2926,13 +2926,13 @@
       "name": "Flowing Cape With Physics",
       "url": "http://www.nexusmods.com/skyrim/mods/32282/",
       "flags": [1],
-      "desc": "\\[DG\\] Adds a cape with realistic physics"
+      "desc": "Adds a cape with realistic physics"
     },
     {
       "name": "Waves",
       "url": "http://www.nexusmods.com/skyrim/mods/31686/",
       "flags": [3],
-      "desc": "\\[DB\\] Makes waves appear along the Coast"
+      "desc": "Makes waves appear along the Coast"
     },
     {
       "name": "CP Apple Trees",
@@ -2950,13 +2950,13 @@
       "name": "Go to bed",
       "url": "http://www.nexusmods.com/skyrim/mods/67763/",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] The current, recommended, safe-to-use Nexus mod that will show an animation of player going to sleep and waking up. Compatible with everything. Does not attach scripts to beds."
+      "desc": "The current, recommended, safe-to-use Nexus mod that will show an animation of player going to sleep and waking up. Compatible with everything. Does not attach scripts to beds."
     },
     {
       "name": "Another Sleep Mod",
       "url": "http://steamcommunity.com/sharedfiles/filedetails/?id=190651656",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] Shows animation of player going to sleep and waking up. This mod has no issues with eyes remaining closed after waking up. (alternate download location provided in description)"
+      "desc": "Shows animation of player going to sleep and waking up. This mod has no issues with eyes remaining closed after waking up. (alternate download location provided in description)"
     },
     {
       "name": "Sleep Tight",
@@ -3010,13 +3010,13 @@
       "name": "Player Headtracking",
       "url": "http://www.nexusmods.com/skyrim/mods/23600/",
       "flags": [4],
-      "desc": "\\[SKSE\\] Your character will automatically turn his/her head to focus on other actors appropriately... similar to how NPC's behave in the game."
+      "desc": "Your character will automatically turn his/her head to focus on other actors appropriately... similar to how NPC's behave in the game."
     },
     {
       "name": "HeadTrack Crosshair",
       "url": "http://www.nexusmods.com/skyrim/mods/39993",
       "flags": [4],
-      "desc": "\\[SKSE\\] Makes your character look at any activatable object that you are aiming at with the crosshair. Works with [Player Headtracking](http://www.nexusmods.com/skyrim/mods/23600/)."
+      "desc": "Makes your character look at any activatable object that you are aiming at with the crosshair. Works with [Player Headtracking](http://www.nexusmods.com/skyrim/mods/23600/)."
     },
     {
       "name": "NoMaaM Breathing Idles BBB",
@@ -3046,13 +3046,13 @@
       "name": "Pumping Iron - Dynamic Muscle Growth",
       "url": "http://www.nexusmods.com/skyrim/mods/29476",
       "flags": [4],
-      "desc": "\\[SKSE\\] Character's weight (size) increases over time. Increases in combat skills will increase weight. Changes apply after sleeping well. Can track progress. Reach max weight around level 40 - 50."
+      "desc": "Character's weight (size) increases over time. Increases in combat skills will increase weight. Changes apply after sleeping well. Can track progress. Reach max weight around level 40 - 50."
     },
     {
       "name": "Five O Clock Shadow",
       "url": "http://www.nexusmods.com/skyrim/mods/49994/",
       "flags": [4],
-      "desc": "\\[SKSE\\] Your character's beard and, optionally, your followers' beards will grow over time Can use a razor in inventory to trim your beard. Set growth rate in MCM."
+      "desc": "Your character's beard and, optionally, your followers' beards will grow over time Can use a razor in inventory to trim your beard. Set growth rate in MCM."
     },
     {
       "name": "Improved Weapon Impact EFFECTS Correct Metal",
@@ -3064,19 +3064,19 @@
       "name": "Equipping Overhaul",
       "url": "http://www.nexusmods.com/skyrim/mods/49784/",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] An improved version of [Armed to the Teeth - easy version](http://www.nexusmods.com/skyrim/mods/26486) - all favorited weapons are visible on your character, current weapon or torch drops to the ground when fast-drawing a different weapon (optional), and torches stay lit when dropped. Compatible with Dual Sheath Redux."
+      "desc": "An improved version of [Armed to the Teeth - easy version](http://www.nexusmods.com/skyrim/mods/26486) - all favorited weapons are visible on your character, current weapon or torch drops to the ground when fast-drawing a different weapon (optional), and torches stay lit when dropped. Compatible with Dual Sheath Redux."
     },
     {
       "name": "All Geared Up",
       "url": "http://www.nexusmods.com/skyrim/mods/40953/",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] Displays favorited weapons and shields on the character when not equipped."
+      "desc": "Displays favorited weapons and shields on the character when not equipped."
     },
     {
       "name": "Dual Sheath Redux",
       "url": "http://www.nexusmods.com/skyrim/mods/34155",
       "flags": [4],
-      "desc": "\\[SKSE\\] Places staves and shield on back when weapons are sheathed. Shows both left and right-handed weapons as sheathed when dual-wielding. Compatible with [Equipping Overhaul](http://www.nexusmods.com/skyrim/mods/49784/). [Installation instruction video](https://www.youtube.com/watch?v=Z2KmriJCxQg)"
+      "desc": "Places staves and shield on back when weapons are sheathed. Shows both left and right-handed weapons as sheathed when dual-wielding. Compatible with [Equipping Overhaul](http://www.nexusmods.com/skyrim/mods/49784/). [Installation instruction video](https://www.youtube.com/watch?v=Z2KmriJCxQg)"
     },
     {
       "name": "Greatsword sheaths and scabbards",
@@ -3100,7 +3100,7 @@
       "name": "Dine with Followers",
       "url": "http://www.nexusmods.com/skyrim/mods/30726",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] Followers will sit and eat with you."
+      "desc": "Followers will sit and eat with you."
     },
     {
       "name": "Better Breath Holding",
@@ -3124,7 +3124,7 @@
       "name": "Open Cities Skyrim",
       "url": "http://www.nexusmods.com/skyrim/mods/8058",
       "flags": [1, 2],
-      "desc": "\\[DG+HF\\] Allows player to enter and leave the 5 cities without a loading screen. (Can ride a horse into the city)."
+      "desc": "Allows player to enter and leave the 5 cities without a loading screen. (Can ride a horse into the city)."
     }
   ],
   "roleplaying": [
@@ -3138,7 +3138,7 @@
       "name": "Professions",
       "url": "http://www.nexusmods.com/skyrim/mods/18258",
       "flags": [4],
-      "desc": "1.  \\[SKSE\\] Makes game time pass (player-configurable) when crafting, cooking, enchanting, mining, woodchopping, etc. Solves the problem of leveling too quickly from rapidly crafting 20 potions/daggers and having too much money from selling crafted items. Works best with a basic needs mod.\n2.  Optional feature: Choose from 9 professions and receive bonuses/penalties for doing/not doing work related to your profession. Note: it's beneficial to wear activity-appropriate clothing."
+      "desc": "Makes game time pass (player-configurable) when crafting, cooking, enchanting, mining, woodchopping, etc. Solves the problem of leveling too quickly from rapidly crafting 20 potions/daggers and having too much money from selling crafted items. Works best with a basic needs mod.\n2.  Optional feature: Choose from 9 professions and receive bonuses/penalties for doing/not doing work related to your profession. Note: it's beneficial to wear activity-appropriate clothing."
     },
     {
       "name": "Faction: Pit Fighter",
@@ -3174,19 +3174,19 @@
       "name": "Pirates of Skyrim - The Northern Cardinal under the Black Flag",
       "url": "http://www.nexusmods.com/skyrim/mods/62844/",
       "flags": [1, 3],
-      "desc": "\\[DG + DB\\] An expansion to [Northern Cardinal](http://www.nexusmods.com/skyrim/mods/54956/) - Own a ship and be a pirate or privateer. Fast travel to various locations. Hire and pay a crew. Board and fight other ships. Sail to the Sea of Ghosts for adventure and treasure. Much more..."
+      "desc": "An expansion to [Northern Cardinal](http://www.nexusmods.com/skyrim/mods/54956/) - Own a ship and be a pirate or privateer. Fast travel to various locations. Hire and pay a crew. Board and fight other ships. Sail to the Sea of Ghosts for adventure and treasure. Much more..."
     },
     {
       "name": "Heljarchen Farm",
       "url": "http://www.nexusmods.com/skyrim/mods/50992/",
       "flags": [2],
-      "desc": "\\[HF\\] Lets you buy, expand and operate a farm. Hire workers, grow crops and earn money selling the harvested crops. Complete renovations to the farmhouse, farm and meadery yourself or hire builders to do the work for you."
+      "desc": "Lets you buy, expand and operate a farm. Hire workers, grow crops and earn money selling the harvested crops. Complete renovations to the farmhouse, farm and meadery yourself or hire builders to do the work for you."
     },
     {
       "name": "Windstad Mine",
       "url": "http://www.nexusmods.com/skyrim/mods/57879/",
       "flags": [2],
-      "desc": "\\[HF\\] Let's you become the owner of a profitable mining operation. Liberate a mine from bandits, expand it, build a fishery, hire workers, hire guards and more."
+      "desc": "Let's you become the owner of a profitable mining operation. Liberate a mine from bandits, expand it, build a fishery, hire workers, hire guards and more."
     },
     {
       "name": "Millwater Retreat",
@@ -3264,7 +3264,7 @@
       "name": "Live Anywhere - Constructible Shacks",
       "url": "http://www.nexusmods.com/skyrim/mods/61752/",
       "flags": [4],
-      "desc": "\\[SKSE\\] Use menu to easily construct a shack, tent, basement or underground burrow anywhere in the world. Shacks can be open shacks (no load doors) or sheltered (load interiors). Sheltered shacks can be small, large, empty or full. Use menus to reposition, decorate, add stairs, basement, crafting stations and more. Works well with [Guild Starter](http://www.nexusmods.com/skyrim/mods/52871/)."
+      "desc": "Use menu to easily construct a shack, tent, basement or underground burrow anywhere in the world. Shacks can be open shacks (no load doors) or sheltered (load interiors). Sheltered shacks can be small, large, empty or full. Use menus to reposition, decorate, add stairs, basement, crafting stations and more. Works well with [Guild Starter](http://www.nexusmods.com/skyrim/mods/52871/)."
     },
     {
       "name": "Build Your Own Home",
@@ -3288,7 +3288,7 @@
       "name": "The FPI Gallery for Console Decorators",
       "url": "http://www.nexusmods.com/skyrim/mods/43061",
       "flags": [1, 2, 3],
-      "desc": "\\[DG+HF+DB\\] Use the console to decorate your home in-game with over 1700 hand-placeable items from all of the DLCs and many modder's resource packs. Also lets you travel via console to an Ikea-like gallery to view/browse all 1700 items."
+      "desc": "Use the console to decorate your home in-game with over 1700 hand-placeable items from all of the DLCs and many modder's resource packs. Also lets you travel via console to an Ikea-like gallery to view/browse all 1700 items."
     },
     {
       "name": "Buyable Paintings and Pictures - Place Anywhere",
@@ -3330,7 +3330,7 @@
       "name": "Hunterborn",
       "url": "http://www.nexusmods.com/skyrim/mods/33201",
       "flags": [4],
-      "desc": "\\[SKSE\\] Changes animal loot into a menu-driven system that lets you pick up, field dress, skin, harvest, and butcher. Skinning animals takes time. Adds hunting knives, new alchemy ingredients/effects, and cooking recipes. Patches available for Realistic Needs and Diseases and Frostfall."
+      "desc": "Changes animal loot into a menu-driven system that lets you pick up, field dress, skin, harvest, and butcher. Skinning animals takes time. Adds hunting knives, new alchemy ingredients/effects, and cooking recipes. Patches available for Realistic Needs and Diseases and Frostfall."
     },
     {
       "name": "Hunting in Skyrim",
@@ -3378,13 +3378,13 @@
       "name": "Bury The Dead",
       "url": "http://www.nexusmods.com/skyrim/mods/23974",
       "flags": [4],
-      "desc": "\\[SKSE\\] Lets you bury your fallen companion. Leaves a permanent tombstone behind for posterity that you can read."
+      "desc": "Lets you bury your fallen companion. Leaves a permanent tombstone behind for posterity that you can read."
     },
     {
       "name": "Alternate Actors",
       "url": "http://www.nexusmods.com/skyrim/mods/36047",
       "flags": [4],
-      "desc": "\\[SKSE\\] \\*\\* Caution \\*\\* Allows you to assume full control over anyone in the game. Alternate playing as the mage, fighter or thief in your adventure party!"
+      "desc": "**Caution** Allows you to assume full control over anyone in the game. Alternate playing as the mage, fighter or thief in your adventure party!"
     }
   ],
   "basic_needs": [
@@ -3410,7 +3410,7 @@
       "name": "SkyRealism - Feast and Famine",
       "url": "http://www.nexusmods.com/skyrim/mods/22327",
       "flags": [4],
-      "desc": "\\[SKSE\\] New recipes + more complexity (adds yeast + dough). Foods add buffs. Burn up to 4K ml of H20/day. Gain 900ml/drink. Burn up to 7K calories/day. Gain 100-2K calories/meal. Lack of rest lowers HMS regen rate & speed."
+      "desc": "New recipes + more complexity (adds yeast + dough). Foods add buffs. Burn up to 4K ml of H20/day. Gain 900ml/drink. Burn up to 7K calories/day. Gain 100-2K calories/meal. Lack of rest lowers HMS regen rate & speed."
     },
     {
       "name": "Drink Eat Sleep Bathe",
@@ -3434,13 +3434,13 @@
       "name": "Eat and Sleep",
       "url": "http://www.nexusmods.com/skyrim/mods/13246/",
       "flags": [4],
-      "desc": "\\[SKSE\\] Automatically eat/drink from inventory every 6 hours or choose to have a food menu appear when sitting. 15 mins pass when eating. Food spoils at appropriate rates). An option allows for removal of some food in vicinity depending on its location. Adds a waterskin & sleeping blanket. More..."
+      "desc": "Automatically eat/drink from inventory every 6 hours or choose to have a food menu appear when sitting. 15 mins pass when eating. Food spoils at appropriate rates). An option allows for removal of some food in vicinity depending on its location. Adds a waterskin & sleeping blanket. More..."
     },
     {
       "name": "I'm a Customer Dammit",
       "url": "http://www.nexusmods.com/skyrim/mods/59702",
       "flags": [4],
-      "desc": "\\[SKSE\\] Saves time by letting you order food at taverns just by clicking on food (15 septims deducted). Also lets you eat cooked foods in world without putting it in inventory first. Compatible with Realistic Needs and Diseases, iNeed and Frostfall."
+      "desc": "Saves time by letting you order food at taverns just by clicking on food (15 septims deducted). Also lets you eat cooked foods in world without putting it in inventory first. Compatible with Realistic Needs and Diseases, iNeed and Frostfall."
     },
     {
       "name": "You Hunger",
@@ -3544,13 +3544,13 @@
       "name": "Living Takes Time",
       "url": "http://www.nexusmods.com/skyrim/mods/44623/",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] Makes game time pass (player-configurable) when crafting, cooking, enchanting, mining, woodchopping, etc. Solves the problem of leveling too quickly from rapidly crafting 20 potions/daggers and having too much money from selling crafted items. Works best with a basic needs mod."
+      "desc": "Makes game time pass (player-configurable) when crafting, cooking, enchanting, mining, woodchopping, etc. Solves the problem of leveling too quickly from rapidly crafting 20 potions/daggers and having too much money from selling crafted items. Works best with a basic needs mod."
     },
     {
       "name": "Professions",
       "url": "http://www.nexusmods.com/skyrim/mods/18258",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] Makes game time pass (player-configurable) when crafting, cooking, enchanting, mining, woodchopping, etc. Solves the problem of leveling too quickly from rapidly crafting 20 potions/daggers and having too much money from selling crafted items. Works best with a basic needs mod."
+      "desc": "Makes game time pass (player-configurable) when crafting, cooking, enchanting, mining, woodchopping, etc. Solves the problem of leveling too quickly from rapidly crafting 20 potions/daggers and having too much money from selling crafted items. Works best with a basic needs mod."
     },
     {
       "name": "Timescales modified",
@@ -3724,13 +3724,13 @@
       "name": "SM Drop Lit Torches ",
       "url": "http://www.nexusmods.com/skyrim/mods/10394",
       "flags": [4],
-      "desc": "\\[SKSE\\] Equipped torch will drop to floor when switching to a weapon/spell/shield. NOTE: This feature is included in [Equipping Overhaul](http://www.nexusmods.com/skyrim/mods/49784/). (Try [Simple Drop Lit Torches](http://www.nexusmods.com/skyrim/mods/56566/) as an alternative)"
+      "desc": "Equipped torch will drop to floor when switching to a weapon/spell/shield. NOTE: This feature is included in [Equipping Overhaul](http://www.nexusmods.com/skyrim/mods/49784/). (Try [Simple Drop Lit Torches](http://www.nexusmods.com/skyrim/mods/56566/) as an alternative)"
     },
     {
       "name": "Torch Hotkey",
       "url": "http://www.nexusmods.com/skyrim/mods/17520",
       "flags": [4],
-      "desc": "\\[SKSE\\] Adds a rebindable torch hotkey to free a vanilla hotkey. Choose a key when first loading the mod."
+      "desc": "Adds a rebindable torch hotkey to free a vanilla hotkey. Choose a key when first loading the mod."
     },
     {
       "name": "Light up the night - People Have Torches ",
@@ -3824,13 +3824,13 @@
       "name": "Convenient Horses",
       "url": "http://www.nexusmods.com/skyrim/mods/14950",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] 50K+ endorsements. 17+ features (too many to list) with many customizable options (WATCH [THIS VIDEO](http://youtu.be/Y4JOb_mH6vk)). Try [Immersive Horses](http://www.nexusmods.com/skyrim/mods/64067) as an alternative."
+      "desc": "50K+ endorsements. 17+ features (too many to list) with many customizable options (WATCH [THIS VIDEO](http://youtu.be/Y4JOb_mH6vk)). Try [Immersive Horses](http://www.nexusmods.com/skyrim/mods/64067) as an alternative."
     },
     {
       "name": "Horse commands",
       "url": "http://www.nexusmods.com/skyrim/mods/15225",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] Adds saddlebags, horse encumbrance (adjustable), commands, improved horse AI (stay or follow intelligently), lets followers ride and more."
+      "desc": "Adds saddlebags, horse encumbrance (adjustable), commands, improved horse AI (stay or follow intelligently), lets followers ride and more."
     },
     {
       "name": "Aeonbarr - Unique Horse",
@@ -3854,7 +3854,7 @@
       "name": "Convenient Horse Herding",
       "url": "http://www.nexusmods.com/skyrim/mods/26704",
       "flags": [4],
-      "desc": "\\[SKSE\\] An extension of [Convenient Horses](http://www.nexusmods.com/skyrim/mods/14950) - Manage your own herd of horses. Rename, set herd camp, have herd follow you, buy guardian dogs to protect your herd, more."
+      "desc": "An extension of [Convenient Horses](http://www.nexusmods.com/skyrim/mods/14950) - Manage your own herd of horses. Rename, set herd camp, have herd follow you, buy guardian dogs to protect your herd, more."
     },
     {
       "name": "Horse Branding",
@@ -3920,7 +3920,7 @@
       "name": "Mounted Casting",
       "url": "http://www.nexusmods.com/skyrim/mods/17703",
       "flags": [4],
-      "desc": "\\[SKSE\\] Lets you cast spells while on horseback. Caution: Buggy."
+      "desc": "Lets you cast spells while on horseback. Caution: Buggy."
     },
     {
       "name": "About Horses",
@@ -3988,7 +3988,7 @@
       "name": "Skyrim Wayshrines - Immersive Fast Travel",
       "url": "http://www.nexusmods.com/skyrim/mods/64201/",
       "flags": [1, 3],
-      "desc": "\\[DG + DB\\] Adds a network of teleporting shrines around Skyrim. Travel is instant i.e. no time will pass during fast travel."
+      "desc": "Adds a network of teleporting shrines around Skyrim. Travel is instant i.e. no time will pass during fast travel."
     }
   ],
   "boats": [
@@ -4020,7 +4020,7 @@
       "name": "Sailable Ships of Skyrim",
       "url": "http://www.nexusmods.com/skyrim/mods/37902",
       "flags": [4],
-      "desc": "\\[SKSE\\] Adds a pilotable rowboat and longboat in solitude. Includes land collision detection. Drop anchor on longboat to enter the interior. Recruit crew for longboat. Hire carpenters to repair."
+      "desc": "Adds a pilotable rowboat and longboat in solitude. Includes land collision detection. Drop anchor on longboat to enter the interior. Recruit crew for longboat. Hire carpenters to repair."
     },
     {
       "name": "Realistic Functional Boats",
@@ -4090,7 +4090,7 @@
       "name": "Cerwiden -SMART Healer- AI Configurable Companion",
       "url": "http://www.nexusmods.com/skyrim/mods/20787",
       "flags": [4],
-      "desc": "**(Riverwood)** \\[SKSE\\] A powerful healer follower with enhanced AI that will heal you and your other followers. Highly configurable. [Click here](http://www.youtube.com/watch?v=PbP5gVvy_Ok) for an in-depth video review."
+      "desc": "**(Riverwood)** A powerful healer follower with enhanced AI that will heal you and your other followers. Highly configurable. [Click here](http://www.youtube.com/watch?v=PbP5gVvy_Ok) for an in-depth video review."
     },
     {
       "name": "Rigmor of Bruma",
@@ -4108,7 +4108,7 @@
       "name": "Atvir Dres - The Last Prince of Tear",
       "url": "http://www.nexusmods.com/skyrim/mods/19348",
       "flags": [],
-      "desc": "**(Windhelm)** \\*\\* Use with [Atvir Dres - updated by AsaRuth](http://www.nexusmods.com/skyrim/mods/51915/) \\*\\* Adds a unique companion with heightened AI, backstory and vibrant personality. More complex interaction with hundreds of lines of fully voiced dialogue. Does not count toward Follower count."
+      "desc": "**(Windhelm)** **Use with [Atvir Dres - updated by AsaRuth](http://www.nexusmods.com/skyrim/mods/51915/)** Adds a unique companion with heightened AI, backstory and vibrant personality. More complex interaction with hundreds of lines of fully voiced dialogue. Does not count toward Follower count."
     },
     {
       "name": "Hoth",
@@ -4144,25 +4144,25 @@
       "name": "Ulath - Custom voiced Follower - Location Aware",
       "url": "http://www.nexusmods.com/skyrim/mods/35163",
       "flags": [1],
-      "desc": "**(College of Winterhold)** \\[DG\\] A custom-voiced, quest-aware Dunmer with healing, perks and powers. Choice of Warlock, Ranger or Swordsman."
+      "desc": "**(College of Winterhold)** A custom-voiced, quest-aware Dunmer with healing, perks and powers. Choice of Warlock, Ranger or Swordsman."
     },
     {
       "name": "Slave Pack Riekling Porter",
       "url": "http://www.nexusmods.com/skyrim/mods/31533",
       "flags": [3],
-      "desc": "**(Ravenrock)** \\[DB\\] A Riekling Porter with an oversized Backpack will carry your weights after you do him a favor. Occupies the pet slot."
+      "desc": "**(Ravenrock)** A Riekling Porter with an oversized Backpack will carry your weights after you do him a favor. Occupies the pet slot."
     },
     {
       "name": "Wolf Follower",
       "url": "http://www.nexusmods.com/skyrim/mods/39625",
       "flags": [4],
-      "desc": "**(Riverwood)** \\[SKSE\\] Adds a wolf puppy as your follower that will grow with age into a Dire Wolf. Every 7 days, wolf increases in size/health/damage. Give custom name. Learns commands over time. Needs to be fed daily (raw meat)."
+      "desc": "**(Riverwood)** Adds a wolf puppy as your follower that will grow with age into a Dire Wolf. Every 7 days, wolf increases in size/health/damage. Give custom name. Learns commands over time. Needs to be fed daily (raw meat)."
     },
     {
       "name": "Garm the Husky Companion",
       "url": "http://www.nexusmods.com/skyrim/mods/33061",
       "flags": [1],
-      "desc": "**(Whiterun Temple of Arkay)** \\[DG\\] Adds a husky-wolf companion (choose from multiple sizes and styles). Recommend with [Realistic Husky Sounds](http://www.nexusmods.com/skyrim/mods/61884)."
+      "desc": "**(Whiterun Temple of Arkay)** Adds a husky-wolf companion (choose from multiple sizes and styles). Recommend with [Realistic Husky Sounds](http://www.nexusmods.com/skyrim/mods/61884)."
     },
     {
       "name": "BFF Animal Companions",
@@ -4200,25 +4200,25 @@
       "name": "Extensible Follower Framework",
       "url": "http://www.nexusmods.com/skyrim/mods/12933",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] [Watch comparison video](http://www.youtube.com/watch?v=3k7IHXW4hbo&list=UUtZWnj8vRQqdqhXAz2Gb-AA). Up to 100 followers. Extensive dialog/command system, group commands, set residence, assign combat style"
+      "desc": "[Watch comparison video](http://www.youtube.com/watch?v=3k7IHXW4hbo&list=UUtZWnj8vRQqdqhXAz2Gb-AA). Up to 100 followers. Extensive dialog/command system, group commands, set residence, assign combat style"
     },
     {
       "name": "Amazing Follower Tweaks",
       "url": "http://www.nexusmods.com/skyrim/mods/15524",
       "flags": [5],
-      "desc": "[Watch comparison video](http://www.youtube.com/watch?v=3k7IHXW4hbo&list=UUtZWnj8vRQqdqhXAz2Gb-AA).Up to 5 followers. Extensive dialog/command system. Improves AI. Control follower outfits. Contrl combat AI. Remotely command them in combat. Manage level-ups. Pose them. Tell them to make camp. Auto-fencing. Horse riding. Control aggression, courage, morality, more..."
+      "desc": "[Watch comparison video](http://www.youtube.com/watch?v=3k7IHXW4hbo&list=UUtZWnj8vRQqdqhXAz2Gb-AA). Up to 5 followers. Extensive dialog/command system. Improves AI. Control follower outfits. Contrl combat AI. Remotely command them in combat. Manage level-ups. Pose them. Tell them to make camp. Auto-fencing. Horse riding. Control aggression, courage, morality, more..."
     },
     {
       "name": "UFO - Ultimate Follower Overhaul",
       "url": "http://www.nexusmods.com/skyrim/mods/14037",
       "flags": [5],
-      "desc": "[Watch comparison video](http://www.youtube.com/watch?v=3k7IHXW4hbo&list=UUtZWnj8vRQqdqhXAz2Gb-AA). \\*\\* No longer supported ([Read](http://steamcommunity.com/app/72850/discussions/0/523890681422555089/)) \\*\\* Up to 15 followers. Extensive dialog/command system, group commands, and horses for followers. [Click here](http://www.nexusmods.com/skyrim/mods/37990/) for the Dragonborn DLC patch."
+      "desc": "[Watch comparison video](http://www.youtube.com/watch?v=3k7IHXW4hbo&list=UUtZWnj8vRQqdqhXAz2Gb-AA). **No longer supported ([Read](http://steamcommunity.com/app/72850/discussions/0/523890681422555089/))** Up to 15 followers. Extensive dialog/command system, group commands, and horses for followers. [Click here](http://www.nexusmods.com/skyrim/mods/37990/) for the Dragonborn DLC patch."
     },
     {
       "name": "Simple multiple followers",
       "url": "http://www.nexusmods.com/skyrim/mods/31581/",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] Allows up to 10 NPC \"normal\" followers, 10 NPC \"special\" followers and 10 pets. Adds many useful dialog options, intelligent looting AI, equipment management AI, trap avoidance AI and more."
+      "desc": "Allows up to 10 NPC \"normal\" followers, 10 NPC \"special\" followers and 10 pets. Adds many useful dialog options, intelligent looting AI, equipment management AI, trap avoidance AI and more."
     },
     {
       "name": "Follower Commentary Overhaul",
@@ -4230,7 +4230,7 @@
       "name": "Followers as Companions",
       "url": "http://www.nexusmods.com/skyrim/mods/62863",
       "flags": [4],
-      "desc": "\\[SKSE\\] Allows your followers to walk beside you instead of behind you. An alternative version now works with multiple followers."
+      "desc": "Allows your followers to walk beside you instead of behind you. An alternative version now works with multiple followers."
     },
     {
       "name": "Better Stealth AI for Followers - No Torch while Sneaking",
@@ -4248,7 +4248,7 @@
       "name": "FCC - Followers can Craft",
       "url": "http://www.nexusmods.com/skyrim/mods/23690",
       "flags": [4],
-      "desc": "\\[SKSE\\] Allows your followers to craft for you for players who don't want to be the master at every skill. Choose \"I need you to do something\", direct them to a Workbench| Forge|Enchanter and then choose task. Also consider [NPCs can Craft](http://www.nexusmods.com/skyrim/mods/59350/) or [Alternative Crafting System - I dont want to be a blacksmith](http://www.nexusmods.com/skyrim/mods/50546/), [Honed Metal -NPC Crafting and Enchanting services-](http://www.nexusmods.com/skyrim/mods/51024/) or [Made to Order](http://www.nexusmods.com/skyrim/mods/14474)."
+      "desc": "Allows your followers to craft for you for players who don't want to be the master at every skill. Choose \"I need you to do something\", direct them to a Workbench| Forge|Enchanter and then choose task. Also consider [NPCs can Craft](http://www.nexusmods.com/skyrim/mods/59350/) or [Alternative Crafting System - I dont want to be a blacksmith](http://www.nexusmods.com/skyrim/mods/50546/), [Honed Metal -NPC Crafting and Enchanting services-](http://www.nexusmods.com/skyrim/mods/51024/) or [Made to Order](http://www.nexusmods.com/skyrim/mods/14474)."
     },
     {
       "name": "Followers Can Relax",
@@ -4308,7 +4308,7 @@
       "name": "Less Bitchy Lydia",
       "url": "http://www.nexusmods.com/skyrim/mods/7700",
       "flags": [],
-      "desc": "Changes Lydia???s \"I am sworn to carry your burdens\" line to \"What do you want me to carry???? (far less bitchy and annoying)"
+      "desc": "Changes Lydia's \"I am sworn to carry your burdens\" line to \"What do you want me to carry\" (far less bitchy and annoying)"
     },
     {
       "name": "Multiple Floors Sandboxing",
@@ -4334,7 +4334,7 @@
       "name": "Hearthfire Multiple Adoptions",
       "url": "http://www.nexusmods.com/skyrim/mods/29249/",
       "flags": [2],
-      "desc": "\\[HF\\] Allows adoption of up to 6 kids instead of just 2. Move your family into suitable custom homes. Gives children a last name."
+      "desc": "Allows adoption of up to 6 kids instead of just 2. Move your family into suitable custom homes. Gives children a last name."
     },
     {
       "name": "Adopt a Child",
@@ -4358,7 +4358,7 @@
       "name": "Marriage Mod - To Have & To Hold",
       "url": "http://steamcommunity.com/sharedfiles/filedetails/?id=11579",
       "flags": [],
-      "desc": "\\*\\* Not compatible with Hearthfire! \\*\\* Improves wedding ceremony & reception, assign default outfit to spouse, multiple spouses, divorce, more."
+      "desc": "**Not compatible with Hearthfire!** Improves wedding ceremony & reception, assign default outfit to spouse, multiple spouses, divorce, more."
     },
     {
       "name": "Marriage Dynamic Outfits - Spouse Redress and Hugging features",
@@ -4396,7 +4396,7 @@
       "name": "Immersive Citizens - AI Overhaul",
       "url": "http://www.nexusmods.com/skyrim/mods/65013/",
       "flags": [1, 3],
-      "desc": "\\[DG + DB\\] Significantly improves the AI of friendly NPCs (citizens) to make them behave more like real people. Numerous improvements watch videos - [Video 1](https://www.youtube.com/watch?v=7EgWWuWJ7pw) | [Video 2](https://www.youtube.com/watch?v=9VmY3jdO6Kw)"
+      "desc": "Significantly improves the AI of friendly NPCs (citizens) to make them behave more like real people. Numerous improvements watch videos - [Video 1](https://www.youtube.com/watch?v=7EgWWuWJ7pw) | [Video 2](https://www.youtube.com/watch?v=9VmY3jdO6Kw)"
     },
     {
       "name": "ASISASIS Improved INI Files",
@@ -4414,13 +4414,13 @@
       "name": "NPC Smarter Water AI",
       "url": "http://www.nexusmods.com/skyrim/mods/50902",
       "flags": [4],
-      "desc": "\\[SKSE\\] Enemies will fight in shallow water and pursue you across water. Followers will fight in shallow water and pursue enemies across water. Compatible with everything."
+      "desc": "Enemies will fight in shallow water and pursue you across water. Followers will fight in shallow water and pursue enemies across water. Compatible with everything."
     },
     {
       "name": "Fight or fly",
       "url": "http://www.nexusmods.com/skyrim/mods/15223",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] Opponents realistically retreat based on his damage and perceived difference in power"
+      "desc": "Opponents realistically retreat based on his damage and perceived difference in power"
     },
     {
       "name": "Mercy ",
@@ -4438,7 +4438,7 @@
       "name": "When Vampires Attack",
       "url": "http://www.nexusmods.com/skyrim/mods/28235",
       "flags": [1],
-      "desc": "\\[DG\\] Makes citizens in a village or city run indoors during a vampire attack."
+      "desc": "Makes citizens in a village or city run indoors during a vampire attack."
     },
     {
       "name": "Everyone is Essential",
@@ -4498,19 +4498,19 @@
       "name": "NPCs can Craft",
       "url": "http://www.nexusmods.com/skyrim/mods/59350/",
       "flags": [4],
-      "desc": "\\[SKSE\\] Blacksmiths will create/temper weapons and armor. Enchanters will enchant/disenchant items. Alchemists will make potions/poisons and tell you what effect an ingredient has. Also consider [Alternative Crafting System - I dont want to be a blacksmith](http://www.nexusmods.com/skyrim/mods/50546/) and [Followers can craft](http://www.nexusmods.com/skyrim/mods/23690)"
+      "desc": "Blacksmiths will create/temper weapons and armor. Enchanters will enchant/disenchant items. Alchemists will make potions/poisons and tell you what effect an ingredient has. Also consider [Alternative Crafting System - I dont want to be a blacksmith](http://www.nexusmods.com/skyrim/mods/50546/) and [Followers can craft](http://www.nexusmods.com/skyrim/mods/23690)"
     },
     {
       "name": "Honed Metal -NPC Crafting and Enchanting services-",
       "url": "http://www.nexusmods.com/skyrim/mods/51024/",
       "flags": [4],
-      "desc": "\\[SKSE\\] Blacksmiths will craft and temper at your request. Enchanters will enchant and recharge items for you."
+      "desc": "Blacksmiths will craft and temper at your request. Enchanters will enchant and recharge items for you."
     },
     {
       "name": "Order My Items",
       "url": "http://www.nexusmods.com/skyrim/mods/51733/",
       "flags": [4],
-      "desc": "\\[SKSE\\] Lets your order any needed ingots or alchemy ingredients from vendors for a configurable fee. The time to wait before it becomes available is also configurable."
+      "desc": "Lets your order any needed ingots or alchemy ingredients from vendors for a configurable fee. The time to wait before it becomes available is also configurable."
     },
     {
       "name": "CM Free Time",
@@ -4686,7 +4686,7 @@
       "name": "Sands of Time - Ultimate Deadly Encounters",
       "url": "http://www.nexusmods.com/skyrim/mods/12452",
       "flags": [1, 3],
-      "desc": "\\[DG\\]\\[DB\\] Adds random chance of being attacked while sleeping, fast traveling, waiting, or walking beteeen towns. Highly configurable through MCM. [Click here](http://sotrealms.enjin.com/acclaimedmods) for a list of complimentary mods that work well with Sands of Time."
+      "desc": "Adds random chance of being attacked while sleeping, fast traveling, waiting, or walking beteeen towns. Highly configurable through MCM. [Click here](http://sotrealms.enjin.com/acclaimedmods) for a list of complimentary mods that work well with Sands of Time."
     },
     {
       "name": "Sands of Time Sleeping Encounters Standalone Module",
@@ -4724,7 +4724,7 @@
       "name": "Real Wildlife - Skyrim",
       "url": "http://www.nexusmods.com/skyrim/mods/9778",
       "flags": [],
-      "desc": "\\*\\* Also install the patch [Real Wildlife - deutsch - verbessert](http://www.nexusmods.com/skyrim/mods/31925/) \\*\\* Edits leveled lists to add animals with a variety of age and diseases, Revised AI and wildlife faction interaction, adjusted speeds, 16 new diseases, 45 new ingredients, 21 new foods & 21 new recipes. [Not compatible with Hearthfire](http://forums.steampowered.com/forums/showthread.php?t=2963860) unless [this patch](http://www.nexusmods.com/skyrim/mods/31925/) is also installed."
+      "desc": "**Also install the patch [Real Wildlife - deutsch - verbessert](http://www.nexusmods.com/skyrim/mods/31925/)** Edits leveled lists to add animals with a variety of age and diseases, Revised AI and wildlife faction interaction, adjusted speeds, 16 new diseases, 45 new ingredients, 21 new foods & 21 new recipes. [Not compatible with Hearthfire](http://forums.steampowered.com/forums/showthread.php?t=2963860) unless [this patch](http://www.nexusmods.com/skyrim/mods/31925/) is also installed."
     },
     {
       "name": "One With Nature - Dynamic Animals and Creatures",
@@ -4792,7 +4792,7 @@
       "name": "Birds and Flocks ",
       "url": "http://www.nexusmods.com/skyrim/mods/11555",
       "flags": [],
-      "desc": "\\*\\* (June 2016) per Nazenn - Use [the fan made version](https://www.dropbox.com/s/ex9oakmi5cuxosk/Birds-USLEEPHearthfireClean.zip) instead. It makes the mod Hearthfire compatible and also cleans out most of the wild edits and all the major ones [Read More](http://steamcommunity.com/app/72850/discussions/0/523890681422555089/?ctp=42)\\*\\* Adds dozens more instances of birds that fly away when startled. (Compatible with skyBirds & Birds of Skyrim)"
+      "desc": "**(June 2016) per Nazenn - Use [the fan made version](https://www.dropbox.com/s/ex9oakmi5cuxosk/Birds-USLEEPHearthfireClean.zip) instead. It makes the mod Hearthfire compatible and also cleans out most of the wild edits and all the major ones [Read More](http://steamcommunity.com/app/72850/discussions/0/523890681422555089/?ctp=42)** Adds dozens more instances of birds that fly away when startled. (Compatible with skyBirds & Birds of Skyrim)"
     },
     {
       "name": "101Bugs",
@@ -4816,7 +4816,7 @@
       "name": "Dogs of Skyrim",
       "url": "http://www.nexusmods.com/skyrim/mods/35008/",
       "flags": [1],
-      "desc": "\\[DG\\] Makes Vanilla dogs unique (different breeds and colors). Adds 80 new instances of dogs including guard dogs, pub dogs, NPC companion dogs/puppies and adoptable strays."
+      "desc": "Makes Vanilla dogs unique (different breeds and colors). Adds 80 new instances of dogs including guard dogs, pub dogs, NPC companion dogs/puppies and adoptable strays."
     },
     {
       "name": "More Village Animals ",
@@ -4860,7 +4860,7 @@
       "name": "Skyrim Immersive Creatures",
       "url": "http://www.nexusmods.com/skyrim/mods/24913",
       "flags": [1],
-      "desc": "\\[DG\\] Adds over 2K creature variants (with lore-friendliness options). Adds skeleton resurrection - random chance to come back to life at a random time. Adds new radiant quests, new bosses and more."
+      "desc": "Adds over 2K creature variants (with lore-friendliness options). Adds skeleton resurrection - random chance to come back to life at a random time. Adds new radiant quests, new bosses and more."
     },
     {
       "name": "Monster Mod",
@@ -4896,7 +4896,7 @@
       "name": "Syynxs Stubborn Skeletons",
       "url": "http://www.nexusmods.com/skyrim/mods/15768",
       "flags": [5],
-      "desc": "\\*\\* Caution \\*\\* Skeletons have more health, do 50% more dmg and have a high chance of getting back up again when killed. (skeleton resurrection is included in [Immersive Creatures](http://www.nexusmods.com/skyrim/mods/24913))"
+      "desc": "**Caution** Skeletons have more health, do 50% more dmg and have a high chance of getting back up again when killed. (skeleton resurrection is included in [Immersive Creatures](http://www.nexusmods.com/skyrim/mods/24913))"
     },
     {
       "name": "Armored Skeletons and The Walking Dead",
@@ -4934,7 +4934,7 @@
       "name": "Deadly Dragons",
       "url": "http://www.nexusmods.com/skyrim/mods/3829",
       "flags": [1, 4, 5],
-      "desc": "\\[SKSE\\] \\[DG\\] 50K+ endorsements. Adds new dragons. + lets you customize dragon health, armor, melee damage, breath damage, and event system frequency. Set to vanilla by default."
+      "desc": "50K+ endorsements. Adds new dragons. + lets you customize dragon health, armor, melee damage, breath damage, and event system frequency. Set to vanilla by default."
     },
     {
       "name": "Dragons Diversified",
@@ -5028,7 +5028,7 @@
       "name": "Sneak Tools",
       "url": "http://www.nexusmods.com/skyrim/mods/19447",
       "flags": [4],
-      "desc": "\\[SKSE\\] Adds ability to knockout target (sneak attack w/ empty hands), slit throat (sneak attack w/ dagger) or kill a sleeping NPC. Adds a cowl that can mask your identity, water arrows and rope arrows."
+      "desc": "Adds ability to knockout target (sneak attack w/ empty hands), slit throat (sneak attack w/ dagger) or kill a sleeping NPC. Adds a cowl that can mask your identity, water arrows and rope arrows."
     },
     {
       "name": "Immersive Detection of NPCs",
@@ -5100,7 +5100,7 @@
       "name": "Shenk Thievery Overhaul",
       "url": "http://www.nexusmods.com/skyrim/mods/10336",
       "flags": [5],
-      "desc": "\\*\\* No updates since Mar 2012 \\*\\* Adds city stealthways, shop guards, guard dogs, specialty arrows, more loot in buildings + dozens of fixes & other improvements"
+      "desc": "**No updates since Mar 2012** Adds city stealthways, shop guards, guard dogs, specialty arrows, more loot in buildings + dozens of fixes & other improvements"
     }
   ],
   "pickpocket": [
@@ -5276,13 +5276,13 @@
       "name": "Vals Crafting Meltdown Alpha - Melting Smelting and Fletchin",
       "url": "http://www.nexusmods.com/skyrim/mods/874",
       "flags": [5],
-      "desc": "\\*\\* Use [Sharlikran's Compatibility Patch](http://www.nexusmods.com/skyrim/mods/26230) instead! (original mod not required)\\*\\* Adds ability to melt down armor, weapons and misc items back into raw materials, smelt gold/silver rings & amulets, and fletch arrows. Designed to work with Lost Art of the Blacksmith + More Craftables"
+      "desc": "**Use [Sharlikran's Compatibility Patch](http://www.nexusmods.com/skyrim/mods/26230) instead! (original mod not required)** Adds ability to melt down armor, weapons and misc items back into raw materials, smelt gold/silver rings & amulets, and fletch arrows. Designed to work with Lost Art of the Blacksmith + More Craftables"
     },
     {
       "name": "Melt Down Everything",
       "url": "http://www.nexusmods.com/skyrim/mods/24737",
       "flags": [4, 5],
-      "desc": "\\[SKSE\\] Gives you the ability to melt down every piece of metallic ammo, armor and weapons, even if they are from mods."
+      "desc": "Gives you the ability to melt down every piece of metallic ammo, armor and weapons, even if they are from mods."
     },
     {
       "name": "Crafting 300 - Armoury of Tamriel",
@@ -5308,13 +5308,13 @@
       "name": "Alternative Crafting System - I dont want to be a blacksmith",
       "url": "http://www.nexusmods.com/skyrim/mods/50546/",
       "flags": [4],
-      "desc": "\\[SKSE\\] Request armor and weapons to be made/repaired for you by any blacksmith. The more skillful the blacksmith, the more expensive (customizable). Crafting takes time (customizable). Also consider [NPCs can Craft](http://www.nexusmods.com/skyrim/mods/59350/), [Followers can craft](http://www.nexusmods.com/skyrim/mods/23690), [Honed Metal -NPC Crafting and Enchanting services-](http://www.nexusmods.com/skyrim/mods/51024/) or [Made to Order](http://www.nexusmods.com/skyrim/mods/14474)"
+      "desc": "Request armor and weapons to be made/repaired for you by any blacksmith. The more skillful the blacksmith, the more expensive (customizable). Crafting takes time (customizable). Also consider [NPCs can Craft](http://www.nexusmods.com/skyrim/mods/59350/), [Followers can craft](http://www.nexusmods.com/skyrim/mods/23690), [Honed Metal -NPC Crafting and Enchanting services-](http://www.nexusmods.com/skyrim/mods/51024/) or [Made to Order](http://www.nexusmods.com/skyrim/mods/14474)"
     },
     {
       "name": "SkyRealism - Portable Crafting Kits",
       "url": "http://www.nexusmods.com/skyrim/mods/21866",
       "flags": [4],
-      "desc": "\\[SKSE\\] Adds portable kits that can be crafted for mobile Alchemy, Cooking, Enchanting, Forging, Sharpening, Smelting, Tanning and Tempering"
+      "desc": "Adds portable kits that can be crafted for mobile Alchemy, Cooking, Enchanting, Forging, Sharpening, Smelting, Tanning and Tempering"
     },
     {
       "name": "Expanded Jewelry Crafting",
@@ -5344,7 +5344,7 @@
       "name": "Real-Time Smithing",
       "url": "http://www.nexusmods.com/skyrim/mods/24036",
       "flags": [4],
-      "desc": "\\[SKSE\\] Placing your weapon on a workbench and beating it with a blacksmith hammer (in real-time) improves it temporarily."
+      "desc": "Placing your weapon on a workbench and beating it with a blacksmith hammer (in real-time) improves it temporarily."
     },
     {
       "name": "Long Lost Smelters of Skyrim",
@@ -5462,7 +5462,7 @@
       "name": "Immersive Potions",
       "url": "http://www.nexusmods.com/skyrim/mods/30073",
       "flags": [1, 2, 3, 5],
-      "desc": "\\[DG+HF+DB\\] Potion effects will take 5 seconds instead of being instant. Effects to not stack i.e. the 2nd potion overwrites the 1st (prevents spamming). Recommend with [Potions Animated](http://www.nexusmods.com/skyrim/mods/28114)."
+      "desc": "Potion effects will take 5 seconds instead of being instant. Effects to not stack i.e. the 2nd potion overwrites the 1st (prevents spamming). Recommend with [Potions Animated](http://www.nexusmods.com/skyrim/mods/28114)."
     },
     {
       "name": "Hardcore Restore Potions",
